@@ -5,5 +5,6 @@ This project builds a regression model based on data provided by the World Healt
 
 This project focus on certain factors like regional variation, economic factors, education, expenditure on healthcare system and some specific disease related deaths that happened in the country, GDP, population.
 
-The output of this project helps the countries to determine the factor that caused the diminished life expectancy rate and improve it accordingly.
+The output of this project helps the countries to determine the factors that cause the decreased life expectancy rate and measures to improve it accordingly.
+
 Link to my Node-red flow https://node-red-puprr.eu-gb.mybluemix.net/red/#flow/fb47ce2.20f533
