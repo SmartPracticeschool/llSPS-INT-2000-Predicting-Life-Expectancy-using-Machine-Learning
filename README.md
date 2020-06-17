@@ -8,3 +8,4 @@ This project focus on certain factors like regional variation, economic factors,
 The output of this project helps the countries to determine the factors that cause the decreased life expectancy rate and measures to improve it accordingly.
 
 Link to my Node-red flow https://node-red-puprr.eu-gb.mybluemix.net/red/#flow/fb47ce2.20f533
+Link to ui to predict life expectancy https://node-red-puprr.eu-gb.mybluemix.net/ui/#!/0?socketid=K6gNCrE0pC651MXxAAAN
